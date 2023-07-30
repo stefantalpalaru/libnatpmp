@@ -2,6 +2,9 @@
 *.class
 java/*.jar
 *.o
+*.lo
+*.la
+.libs
 *.a
 *.so
 *.dylib
